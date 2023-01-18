@@ -1,6 +1,6 @@
 body{
     background-color: aqua;
-    margin: 0;
+    
 }
 
  /*div{
@@ -28,4 +28,17 @@ body{
 .div2-menu{
     background-color: yellow;
     height: 5vh;
+}
+
+table{
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: beige;
+}
+
+td{
+    border: solid black 1px;
 }
